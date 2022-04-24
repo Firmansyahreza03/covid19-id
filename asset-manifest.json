@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/covid19-id/static/css/main.0b5bac23.css",
+    "main.js": "/covid19-id/static/js/main.83065fca.js",
+    "static/js/787.0188342a.chunk.js": "/covid19-id/static/js/787.0188342a.chunk.js",
+    "static/media/red-city-6.jpg": "/covid19-id/static/media/red-city-6.df080ba5d36749a05103.jpg",
+    "static/media/idmaps.png": "/covid19-id/static/media/idmaps.0f21d582d3c015446189.png",
+    "static/media/covid19-corona.gif": "/covid19-id/static/media/covid19-corona.600bbf48d19e1bcd7842.gif",
+    "static/media/brazil.png": "/covid19-id/static/media/brazil.35acb785cfd0a6813be0.png",
+    "static/media/india.png": "/covid19-id/static/media/india.442bdd66f7f5a7687db6.png",
+    "static/media/inggris.jpg": "/covid19-id/static/media/inggris.2735e5fb5621f4bb55c1.jpg",
+    "index.html": "/covid19-id/index.html",
+    "main.0b5bac23.css.map": "/covid19-id/static/css/main.0b5bac23.css.map",
+    "main.83065fca.js.map": "/covid19-id/static/js/main.83065fca.js.map",
+    "787.0188342a.chunk.js.map": "/covid19-id/static/js/787.0188342a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5bac23.css",
+    "static/js/main.83065fca.js"
+  ]
+}
