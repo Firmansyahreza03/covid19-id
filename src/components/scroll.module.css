@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    position: fixed;
+    display: flex;
+    height: 10vh;
+}
+.component{
+    display: flex;
+    margin: auto 0;
+    margin-left: 750px;
+}
+
+.component li{
+    margin: 0 50px;
+    list-style: none;
+    cursor: pointer;
+    color: white;
+}
+
+section{
+    height: 100vh; /*buat ngatur tinggi*/
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    scroll-snap-align: start;
+}
+
+.container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+.one {
+    background-image: url(../assets/covid19-corona.gif), url(../assets/red-city-6.jpg);
+    background-position: center 150px, top;
+    background-size: 200px, cover;
+    background-repeat: no-repeat, no-repeat;
+}
+.two{
+    /* background-color: #277da1; */
+    background-image: radial-gradient(#d00000, #6a040f, #03071e);
+}
+.three{
+    /* background-color: #90be6d; */
+    background-image: linear-gradient(to bottom right, #9d0208, #370617);
+}
+.btn{
+    padding: 5px 10px;
+}
+.btn:hover{
+    background-image: linear-gradient(to right, #6a040f , #dc2f02);
+    border-radius: 50px;
+}

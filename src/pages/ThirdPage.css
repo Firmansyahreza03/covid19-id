@@ -1,0 +1,45 @@
+.flex-pages-3-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-pages-2{
+    display: flex;
+}
+
+.fg-column{
+    /* border: 1px solid red; */
+    padding: 10px 50px 10px 50px;
+}
+
+.desc-column{
+    /* border: 1px solid blue; */
+    padding: 0 300px;
+}
+
+.desc-column h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.desc-column p{
+    font-family: sans-serif;
+}
+.fg{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.neonText {
+    color: #fff;
+    text-shadow:
+        0 0 1px #fff,
+        0 0 2px #fff,
+        0 0 4px #fff,
+        0 0 4px #e63946,
+        0 0 10px #e63946,
+        0 0 20px #e63946,
+        0 0 10px #e63946,
+        0 0 200px #e63946;
+  }

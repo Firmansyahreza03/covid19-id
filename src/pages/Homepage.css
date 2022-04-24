@@ -1,0 +1,22 @@
+.neonText {
+    color: #fff;
+    text-shadow:
+        0 0 1px #fff,
+        0 0 2px #fff,
+        0 0 4px #fff,
+        0 0 4px #e63946,
+        0 0 10px #e63946,
+        0 0 20px #e63946,
+        0 0 10px #e63946,
+        0 0 200px #e63946;
+  }  
+
+.title{ 
+    margin-top: 20%;
+    font-size:4rem;
+}
+
+.desc{
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+}
